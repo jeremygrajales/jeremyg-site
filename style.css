@@ -10,9 +10,12 @@ body {
     font-weight: normal;
     color: #333;
     font-size: 36px;
-    text-align: center;
     cursor: default;
     background: linear-gradient(0deg, rgba(0, 0, 200, 0.6), rgba(0, 0, 200, 0));
+}
+
+.center {
+    text-align: center;
 }
 
 .content {
