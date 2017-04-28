@@ -15,6 +15,11 @@ body {
     background: linear-gradient(0deg, rgba(0, 0, 200, 0.6), rgba(0, 0, 200, 0));
 }
 
+.content {
+    font-size: 16px;
+    text-align: left;
+}
+
 hr {
     border: none;
     border-bottom: 1px solid #ccc;
