@@ -62,6 +62,7 @@ a {
 
 .card-wrapper:hover .card {
     transform: rotateY(180deg);
+    height: 400px;
 }
 
 .card {
