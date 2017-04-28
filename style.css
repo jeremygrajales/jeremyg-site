@@ -56,6 +56,9 @@ a {
 }
 
 .card-wrapper {
+    transform-style: preserve-3d;
+    transition: transform 1s ease;
+
     width: 500px;
     height: 300px;
     margin: 20px;
