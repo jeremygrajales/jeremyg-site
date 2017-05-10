@@ -67,7 +67,7 @@ a {
 
 .card-wrapper.active .card {
     transform: rotateY(180deg);
-    font-weight: bold;
+    
 }
 
 .card {
