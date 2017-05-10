@@ -61,11 +61,11 @@ a {
     position: relative;
 }
 
-.card-wrapper:hover {
+.card-wrapper:hover, .card-wrapper.active {
     height: 500px;
 }
 
-.card-wrapper:hover .card {
+.card-wrapper:hover .card, .card-wrapper.active .card {
     transform: rotateY(180deg);
 }
 
